@@ -9,6 +9,7 @@ import SwiftUI
 
 struct CircleImage: View {
     var body: some View {
+        Text("Twin Lake")
         Image("twinlake")
             .clipShape(Circle())
             .overlay {
