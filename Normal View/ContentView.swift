@@ -34,6 +34,7 @@ struct ContentView: View {
                 Text("About Turtle Rock")
                     .font(.title2)
                 Text("Well known as sightseeing destination.")
+                Text("Alamgiur Hossain")
             }
             .padding()
             Spacer()
