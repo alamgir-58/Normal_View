@@ -33,7 +33,7 @@ struct ContentView: View {
                 Divider()
                 Text("About Turtle Rock")
                     .font(.title2)
-                Text("Descriptive text goes here.")
+                Text("Well known as sightseeing destination.")
             }
             .padding()
             Spacer()
