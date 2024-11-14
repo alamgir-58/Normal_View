@@ -11,6 +11,7 @@ import MapKit
 struct MapView: View {
     var body: some View {
         Text("Map View")
+            .font(.title)
         Map(initialPosition: .region(region))
     }
     private var region: MKCoordinateRegion {
